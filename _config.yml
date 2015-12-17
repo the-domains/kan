@@ -1,0 +1,28 @@
+name: KAN
+favicon: null
+layout_spectrum: 0.04371109325438738
+typography_spectrum: 0.7492796662263572
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.37863805214874446
+  lightness: 0.9439939861185849
+  saturation: 0.5432022190652788
+  rhythmicContrast: 0.1135295678395778
+purpose: []
